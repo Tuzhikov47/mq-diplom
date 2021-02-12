@@ -58,14 +58,6 @@
       z-index: 9999;
     }
 
-    .popup-container {
-      position: fixed;
-      display: flex;
-      height: 100vh;
-      z-index: 999;
-      width: 100%;
-    }
-
     .popup {
       background-color: #ffffff;
       padding: 30px 30px 55px 30px;
